@@ -202,4 +202,3 @@ python3 scripts/smoke-test.py   # terminal 2 (cần Python 3)
 
 Script mô phỏng trình duyệt (gửi multipart kèm `$ACTION_*`), không cần trình
 duyệt headless.
-
